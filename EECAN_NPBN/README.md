@@ -4,7 +4,7 @@
 This work is based on the publications _A Non-parametric Bayesian Network for multivariate probabilistic modelling of Weigh-in-Motion System Data_ https://doi.org/10.1016/j.trip.2022.100552
 
 
-$\mathrm{EECAN}_{\mathrm{BN}}$ was used in the research _Identifying traffic hazards by mapping extreme gross vehicle weights using Gaussian copula-based Bayesian networks_ 
+$\mathrm{GCBN}_{\mathrm{EECAN}}$ was used in the research _Identifying traffic hazards by mapping extreme gross vehicle weights using Gaussian copula-based Bayesian networks_ 
 
 ---
 
