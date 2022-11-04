@@ -1,18 +1,18 @@
-# EECAN NPBN GUI
-## A Non-parametric Bayesian Network (NPBN) for modelling axle loads
+# EECAN BN GUI
+## A Gaussian Copula-based Bayesian Network (NPBN) for modelling axle loads.
 
 This work is based on the publications _A Non-parametric Bayesian Network for multivariate probabilistic modelling of Weigh-in-Motion System Data_ https://doi.org/10.1016/j.trip.2022.100552
 
 
-$\mathrm{EECAN}_{\mathrm{NPBN}}$ was used in the research _Mapping extreme gross vehicle weights using a Non-parametric Bayesian Network_ 
+$\mathrm{EECAN}_{\mathrm{BN}}$ was used in the research _Identifying traffic hazards by mapping extreme gross vehicle weights using Gaussian copula-based Bayesian networks_ 
 
 ---
 
-The Graphical User Interface **EECAN NPBN** can be downloaded from  <span style="font-size:larger;">**[here](https://1drv.ms/u/s!Ao_8atl7piKAmZ82GcBUYvXnU3s3kA?e=iFxzTe)**</span>. It computes synthetic axle loads of five truck types similar to those reported in the Statistic Field Study of Domestic Road Transportation (EECAN, for its acronym in Spanish) origin-destination survey database. 
+The Graphical User Interface **EECAN BN** can be downloaded from  <span style="font-size:larger;">**[here](https://1drv.ms/u/s!Ao_8atl7piKAmZ82GcBUYvXnU3s3kA?e=iFxzTe)**</span>. It computes synthetic axle loads of five truck types similar to those reported in the Statistic Field Study of Domestic Road Transportation (EECAN, for its acronym in Spanish) origin-destination survey database. 
 
 The surveys have been conducted for four consecutive days per year by the Mexican Ministry of Communications and Transports, in a varying number of stations surveyed every year from 1991 until 2017.
 
-The Non-parametric Bayesian Network was computed using _PY_BANSHEE_ (paper in review prosses) the python version of BANSHEE MATLAB (https://doi.org/10.1016/j.softx.2020.100588).
+The Bayesian Network was computed using _PY_BANSHEE_ (paper in review prosses) the python version of BANSHEE MATLAB (https://doi.org/10.1016/j.softx.2020.100588).
 
 The available vehicle types are: 
 
